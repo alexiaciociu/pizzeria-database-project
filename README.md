@@ -13,4 +13,4 @@ The database includes tables for:
 - Payments
 
 ## Entity-Relationship Diagram
-![ER Diagram](er_diagram.png)
+![ER Diagram](Diagrama.jpg)
